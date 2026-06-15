@@ -29,7 +29,7 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">WEBHOOK TRIGGERED WITH THE CICD PIPELINE--SANKALP PARAJULI !</h1>
-      <p class="lead">A safety resource for snake LOVERS.</p>
+      <p class="lead">this i line is added to check the trigger.</p>
       <!--Intro -->
       <h2>What do you think about this cicd integration?</h2>
       <p>Snakes are a controversial topic. Some people love'em, some people just can't stand them. How do you get by in a world full of snakes?</p>
